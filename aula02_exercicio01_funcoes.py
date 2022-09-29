@@ -13,19 +13,14 @@ def show_impar(impar):
     for i in impar:
         print(i, end=', ')
 
-def ordena_lista(lis):
-    return lis.sort()
-
 def menor_num(lis):
-    return lis[0]
+    return min(lis)
 
 def maior_num(lis):
-    return lis[len(lis)-1]
+    return max(lis)
 
 def media(lis):
-    soma = 0
-    for l in lis:
-        soma += l
+    soma = sum(lis)
     return soma/len(lis)
 
 def main():
@@ -46,7 +41,6 @@ def main():
                 op = False
         except ValueError:
             print("Entrada inválida.")
-    ordena_lista(lista)
     print(f"Quantidade de pares: {len(par)}")
     print(f"Quantidade de impares: {len(impar)}")
     show_impar(impar)

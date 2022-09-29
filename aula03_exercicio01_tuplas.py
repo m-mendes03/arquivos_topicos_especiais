@@ -18,24 +18,13 @@ def impares(vet):
     print()
 
 def soma(vet):
-    soma = 0
-    for v in vet:
-        soma += v
-    return soma
+    return sum(vet)
 
 def maior(vet):
-    maior = vet[0]
-    for v in vet:
-        if v > maior:
-            maior = v
-    return maior
+    return max(vet)
 
 def menor(vet):
-    menor = vet[0]
-    for v in vet:
-        if v < menor:
-            menor = v
-    return menor
+    return min(vet)
 
 def positivos(vet):
     count = 0

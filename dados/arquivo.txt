@@ -1,0 +1,51 @@
+winery;wine;year;rating;num_reviews;country;region;price;type;body;acidity
+Teso La Monja;Tinto;2013;04. Sep;58;Espana;Toro;995;Toro Red;5;3
+Artadi;Vina El Pison;2018;04. Sep;31;Espana;Vino de Espana;313.5;Tempranillo;4;2
+Vega Sicilia;Unico;2009;04. Aug;1793;Espana;Ribera del Duero;324.95;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1999;04. Aug;1705;Espana;Ribera del Duero;692.96;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1996;04. Aug;1309;Espana;Ribera del Duero;778.06;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1998;04. Aug;1209;Espana;Ribera del Duero;490;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;2010;04. Aug;1201;Espana;Ribera del Duero;349;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1995;04. Aug;926;Espana;Ribera del Duero;810.89;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;2015;04. Aug;643;Espana;Ribera del Duero;345;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;2011;04. Aug;630;Espana;Ribera del Duero;315;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;2016;04. Aug;591;Espana;Ribera del Duero;514.85;Ribera Del Duero Red;5;3
+Pago de Carraovejas;El Anejon;2016;04. Aug;454;Espana;Ribera del Duero;105.15;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;2018;04. Aug;438;Espana;Ribera del Duero;430;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1970;04. Aug;417;Espana;Ribera del Duero;925;Ribera Del Duero Red;5;3
+Toro Albala;Don PX Convento Seleccion;1946;04. Aug;398;Espana;Montilla-Moriles;350;Pedro Ximenez;5;1
+Pago de Carraovejas;Cuesta de Las Liebres;2015;04. Aug;372;Espana;Ribera del Duero;166.18;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1962;04. Aug;295;Espana;Ribera del Duero;1620;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;2019;04. Aug;250;Espana;Ribera del Duero;431.36;Ribera Del Duero Red;5;3
+Bodegas El Nido;El Nido;2018;04. Aug;217;Espana;Jumilla;195.627.379.550.654;Red;4;3
+Vega Sicilia;Unico Reserva Especial Edicion;2004;04. Aug;211;Espana;Ribera del Duero;824.43;Ribera Del Duero Red;5;3
+Valdespino;Toneles Moscatel;N.V.;04. Aug;174;Espana;Jerez-Xeres-Sherry;253;Sherry;4;3
+Vega Sicilia;Unico Reserva Especial Edicion;2013;04. Aug;172;Espana;Ribera del Duero;570.51;Ribera Del Duero Red;5;3
+Dominio de Pingus;Pingus;2016;04. Aug;145;Espana;Ribera del Duero;1280;Ribera Del Duero Red;5;3
+Toro Albala;Don PX Convento Seleccion;1931;04. Aug;139;Espana;Montilla-Moriles;244.85;Pedro Ximenez;5;1
+Vega Sicilia;Unico Reserva Especial Edicion;2010;04. Aug;125;Espana;Ribera del Duero;719.34;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico;1979;04. Aug;118;Espana;Ribera del Duero;815;Ribera Del Duero Red;5;3
+Toro Albala;Don PX Pedro Ximenez;1946;04. Aug;103;Espana;Montilla-Moriles;285.86;Pedro Ximenez;5;1
+Alvaro Palacios;L'Ermita Velles Vinyes Priorat;2004;04. Aug;87;Espana;Priorato;1410.26;Priorat Red;4;3
+Vega Sicilia;Unico Reserva Especial Edicion;2005;04. Aug;87;Espana;Ribera del Duero;813.96;Ribera Del Duero Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;2020;04. Aug;84;Espana;Ribera del Duero;435.75;Ribera Del Duero Red;5;3
+Ordonez;Vatan Arena Tinta de Toro;2014;04. Aug;79;Espana;Toro;369.05;Toro Red;5;3
+Vega Sicilia;Unico Reserva Especial Edicion;1985;04. Aug;70;Espana;Ribera del Duero;1182.77;Ribera Del Duero Red;5;3
+Toro Albala;Don PX Convento Seleccion;1929;04. Aug;69;Espana;Montilla-Moriles;227.95;Pedro Ximenez;5;1
+Bodegas Valduero;Ribera Del Duero Gran Reserva 12 Anos;1999;04. Aug;68;Espana;Ribera del Duero;999;Ribera Del Duero Red;5;3
+Vina Sastre;Pesus Ribera del Duero;2007;04. Aug;68;Espana;Ribera del Duero;360;Ribera Del Duero Red;5;3
+Teso La Monja;Tinto;2012;04. Aug;56;Espana;Toro;1190;Toro Red;5;3
+Dominio de Pingus;Pingus;2017;04. Aug;52;Espana;Ribera del Duero;1150;Ribera Del Duero Red;5;3
+Teso La Monja;Tinto;2009;04. Aug;50;Espana;Toro;950;Toro Red;5;3
+Alvaro Palacios;L'Ermita Velles Vinyes Priorat;2008;04. Aug;40;Espana;Priorato;1021.21;Priorat Red;4;3
+Sierra Cantabria;Magico;2016;04. Aug;40;Espana;Rioja;544.5;Rioja Red;4;3
+Teso La Monja;Tinto;2011;04. Aug;32;Espana;Toro;1295;Toro Red;5;3
+Alvaro Palacios;L'Ermita Velles Vinyes Priorat;2017;04. Aug;31;Espana;Priorato;992.2;Priorat Red;4;3
+Teso La Monja;Tinto;2015;04. Aug;28;Espana;Toro;1289.44;Toro Red;5;3
+Descendientes de J. Palacios;La Faraona Bierzo (Corullon);2017;04. Aug;26;Espana;Bierzo;1098.9;Red;4;3
+La Rioja Alta;Gran Reserva 890;1985;04. Aug;26;Espana;Rioja;215.34;Rioja Red;4;3
+Alvaro Palacios;L'Ermita Velles Vinyes Priorat;2018;04. Aug;26;Espana;Priorato;1094.9;Priorat Red;4;3
+Vega Sicilia;Unico Reserva Especial Edicion;;04. Jul;12421;Espana;Ribera del Duero;423.5;Ribera Del Duero Red;5;3
+Vega Sicilia;Valbuena 5o;2010;04. Jul;5266;Espana;Ribera del Duero;239.5;Ribera Del Duero Red;5;3
+Vega Sicilia;Valbuena 5o;2014;04. Jul;4350;Espana;Ribera del Duero;175.5;Ribera Del Duero Red;5;3
+Vega Sicilia;Valbuena 5o;2006;04. Jul;3929;Espana;Ribera del Duero;194;Ribera Del Duero Red;5;3

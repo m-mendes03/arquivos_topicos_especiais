@@ -2,25 +2,18 @@
 import os
 os.system('cls')
 
-def head(nome):
+def html(nome, endereco, telefone, email, escola, exp_profissional):
+    print("!DOCTYPE html")
+    print("<html>")
     print(f"<head><title>Currículo {nome}</title></head>")
-
-def body(nome, endereco, telefone, email, escola, exp_pro):
-    body = f"""\t<body>
+    print(f"""\t<body>
             <h3>Currículo de {nome}</h3>
             <p>Endereço: {endereco},
             <br>Telefone: {telefone},
             <br>Email: {email}</p>
             <p>Escolaridade: {escola}</p>
-            <p>Experiência profissional: {exp_pro}</p>
-        </body>"""
-    print(body)
-
-def html(nome, endereco, telefone, email, escola, exp_profissional):
-    print("!DOCTYPE html")
-    print("<html>")
-    head(nome)
-    body(nome, endereco, telefone, email, escola, exp_profissional)
+            <p>Experiência profissional: {exp_profissional}</p>
+        </body>""")
     print("</html>")
 
 def main():

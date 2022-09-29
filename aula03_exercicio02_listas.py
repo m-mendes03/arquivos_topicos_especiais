@@ -11,6 +11,6 @@ vetor.sort()
 
 print(vetor)
 
-vetor = list(map(lambda x: round(x/vetor[len(vetor)-1], 2), vetor))
+vetor = list(map(lambda x: round(x/max(vetor), 2), vetor))
 
 print(vetor)
